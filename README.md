@@ -104,3 +104,12 @@ Las credenciales de acceso a la base de datos, incluidas las contraseñas, no de
 ## ✅ Conclusión
 
 Esta práctica permite aplicar los conceptos de bases de datos relacionales, servicios en la nube y conexiones remotas. Además, demuestra cómo MySQL Workbench puede utilizarse para gestionar y consultar información almacenada en un servidor MySQL de Clever Cloud.
+
+
+
+## 📄 Informe de la práctica
+
+El siguiente documento contiene las evidencias
+de la implementación de MySQL en Clever Cloud.
+
+[📑 Ver informe completo en PDF](./Informe_Practica.pdf)

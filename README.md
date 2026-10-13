@@ -113,3 +113,19 @@ El siguiente documento contiene las evidencias
 de la implementación de MySQL en Clever Cloud.
 
 [📑 Ver informe completo en PDF](./Informe_Practica.pdf)
+
+
+## 📸 Evidencias de la práctica
+
+### 1. Base de datos en Clever Cloud
+
+![Creación de MySQL en Clever Cloud](./capturas/Evidencia1.png)
+
+### 2. Conexión remota desde MySQL Workbench
+
+![Conexión remota](./capturas/Evidencia2.png)
+
+### 3. Consulta SQL ejecutada
+
+![Resultados de la consulta](./capturas/Evidencia3.png)
+
